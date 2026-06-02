@@ -7,7 +7,7 @@ terraform {
     aws = {
       source  = "hashicorp/aws"
       version = "~> 3.0"
-      accesskeyId = "xbuchsofhgj"
+      accesskeyId = "xbuchsofhsisjshshsgj"
       secretkey = "isnhyenf"
     }
   }
