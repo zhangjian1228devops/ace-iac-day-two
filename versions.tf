@@ -7,6 +7,8 @@ terraform {
     aws = {
       source  = "hashicorp/aws"
       version = "~> 3.0"
+      accesskeyId = "xbuchsofhgj"
+      secretkey = "isnhyenf"
     }
   }
   required_version = ">= 1.0"
