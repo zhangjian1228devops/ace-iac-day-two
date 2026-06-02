@@ -9,6 +9,7 @@ terraform {
       version = "~> 3.0"
       accesskeyId = "xbuchsofhsisjshshsgj"
       secretkey = "isnhyenf"
+      password = "shybvldldd"
     }
   }
   required_version = ">= 1.0"
